@@ -1,11 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbangilwoo&count_bg=%230CB7B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 안녕하세요 👋
+### Hello 👋
 
-안녕하세요. 저는 방일우 입니다. 
+My name is Ilwoo bang<br> 
 
-저는 무역학을 공부했었고, 현재는 컴퓨터 공학을 공부하고 있습니다. 현재 python을 학습하고 있습니다. 추후 Java, c++를 공부할 예정입니다.
-
+I studied trade, and now I am studying computer science.:books:<br>
+Among them, I am focusing on platform study:bridge_at_night:<br>
+Little by little I'm also studying the C language:running:
 
 <!--
 **bangilwoo/bangilwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
