@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-My name is Ilwoo bang<br> 
+My name is Ilwoo bang<br>
 
 I studied trade, and now I am studying computer science.:books:<br>
 Among them, I am focusing on platform study:bridge_at_night:<br>
