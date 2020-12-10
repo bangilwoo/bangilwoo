@@ -8,9 +8,8 @@ I studied trade, and now I am studying computer science.:books:<br>
 Among them, I am focusing on platform study:bridge_at_night:<br>
 Little by little I'm also studying the C language:running:
 
-<a href="https://www.facebook.com/ilwoo.bang">
-    <img 
-        src="http://img.shields.io/badge/-Facebook-informational?style=flat&logo=Facebook&link=https://www.facebook.com/ilwoo.bang"
+<a href="https://www.facebook.com/ilwoo.bang" rel="nfollow>
+    <img src="http://img.shields.io/badge/-Facebook-informational?style=flat&logo=Facebook&link=https://www.facebook.com/ilwoo.bang"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
