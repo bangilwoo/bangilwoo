@@ -8,7 +8,7 @@ I studied trade, and now I am studying computer science.:books:<br>
 Among them, I am focusing on platform study:bridge_at_night:<br>
 Little by little I'm also studying the C language:running:
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://www.facebook.com/ilwoo.bang">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
