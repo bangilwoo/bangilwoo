@@ -8,7 +8,11 @@ I studied trade, and now I am studying computer science.:books:<br>
 Among them, I am focusing on platform study:bridge_at_night:<br>
 Little by little I'm also studying the C language:running:
 
-e.g. https://www.facebook.com/ilwoo.bang
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 **bangilwoo/bangilwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
