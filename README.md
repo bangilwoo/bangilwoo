@@ -8,6 +8,8 @@ I studied trade, and now I am studying computer science.:books:<br>
 Among them, I am focusing on platform study:bridge_at_night:<br>
 Little by little I'm also studying the C language:running:
 
+e.g. https://www.facebook.com/ilwoo.bang
+
 <!--
 **bangilwoo/bangilwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
