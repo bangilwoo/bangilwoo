@@ -10,7 +10,7 @@ Little by little I'm also studying the C language:running:
 
 <a href="https://www.facebook.com/ilwoo.bang">
     <img 
-        src="http://img.shields.io/badge/-Facebook-blue?style=flat&logo=#1877F2&link=https://www.facebook.com/ilwoo.bang"
+        src="http://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&link=https://www.facebook.com/ilwoo.bang"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
