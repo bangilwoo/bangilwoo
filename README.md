@@ -21,6 +21,8 @@ Little by little I'm also studying the C language:running:
 </a>   
 </p>
 
+ad
+
 <!--
 **bangilwoo/bangilwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
