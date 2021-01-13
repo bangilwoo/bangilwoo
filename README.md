@@ -3,7 +3,7 @@
 ### Hello 👋
   
 My name is Ilwoo bang<br>
-
+   
 I studied trade, and now I am studying computer science.:books:<br>
 Among them, I am focusing on platform study:bridge_at_night:<br>
 Little by little I'm also studying the C language:running:
