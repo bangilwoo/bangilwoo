@@ -18,7 +18,7 @@ Little by little I'm also studying the C language:running:
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bangilwoo/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>   
+</a>
 </p>
 
 <!--
